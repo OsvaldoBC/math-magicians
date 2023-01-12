@@ -59,9 +59,9 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[React Component Structure]**
+- **[Use Event handlers]**
+- **[use functional component with hooks]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,9 +148,9 @@ not yet available
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[No-yet-available]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Create a SPA that include 3 sub-pages]**
+- [ ] **[Test the application]**
+- [ ] **[Deploy the APP]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
