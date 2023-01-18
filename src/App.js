@@ -1,20 +1,20 @@
 import './App.css';
 import React from 'react';
+import { Route, Routes } from 'react-router-dom';
 import Calculator from './components/Calculator';
+import Navbar from './pages/Navbar';
+import Welcome from './pages/Home';
+import Quote from './pages/Quote';
 
-class App extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = '';
-  }
-
-  render() {
-    return (
-      <div className="App">
-        <Calculator />
-      </div>
-    );
-  }
-}
-
+const App = () => (
+  <>
+    <Navbar />
+    <Routes>
+      <Route exact path="/home" element={<Home />} />
+      <Route exact path="/calculator" element={<Calculator />} />
+      <Route exact path="/quote" element={<Quote />} />
+    </Routes>
+  </>
+);
 export default App;
+
