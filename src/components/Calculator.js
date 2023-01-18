@@ -16,6 +16,8 @@ const Calculator = () => {
 
   const { total, next, operation } = state;
   return (
+    <div className="cal-wrapper">
+      <p className="cal-text">Let us do some math</p>
     <section className="calculator-container flex-row">
       <div className="output-container flex-row">
         <div className="output">
@@ -86,6 +88,7 @@ const Calculator = () => {
         </button>
       </div>
     </section>
+    </div>
   );
 };
 
