@@ -69,7 +69,7 @@
 
 ## 🚀 Live Demo Not yet available<a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://ob-math-magicians.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
