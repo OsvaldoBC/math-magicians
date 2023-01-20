@@ -136,11 +136,23 @@ not yet available
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Osvaldo Barrios**
 
 - Twitter : [@OsvaldoBarrio20](https://twitter.com/OsvaldoBarrio20)
 - GitHub : [@OsvaldoBC](https://github.com/OsvaldoBC)
 - LinkedIn: [osvaldo-barrios-data-science](https://linkedin.com/in/osvaldo-barrios-data-science)
+
+👤 **MIRNA**
+
+- GitHub: [@M1rn4](https://github.com/M1rn4)
+- Twitter: [Mirna_Ampuero](https://twitter.com/_AmpueroMirna)
+- LinkedIn: [Mirna](https://www.linkedin.com/in/mirna-ampuero-caro/)
+
+👤 **Paul Sáenz Sucre**
+
+- GitHub: [@elafildecolor](https://github.com/elafildecolor)
+- Twitter: [@paulsaenzsucre](https://twitter.com/paulsaenzsucre)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/paulsaenzsucre)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
