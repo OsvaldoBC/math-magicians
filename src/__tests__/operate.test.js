@@ -13,4 +13,10 @@ describe('operate', () => {
   test('shoud return 4 after adding 12 ÷ 3', () => {
     expect(operate('12', '3', '÷')).toEqual('4');
   });
+  test('shoud return 4 after adding 12 ÷ 3', () => {
+    expect(operate('12', '5', '%')).toEqual('2');
+  });
+  test('shoud throw if divide by zero', () => {
+    expect(operate('12', '0', '÷')).toEqual('Can\'t divide by 0.');
+  });
 });
